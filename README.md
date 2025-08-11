@@ -1,7 +1,7 @@
 # Hi 👋, I'm Sourav Kumar Kuila
 
 🚀 **DevOps Engineer | Cloud & Automation Enthusiast**  
-`SouravKuila` · _DevOps • Azure • Terraform • CI/CD • Kubernetes • JavaScript • Angular • Node.js_
+`souravkumarkuila` · _DevOps • Azure • Terraform • CI/CD • Kubernetes • JavaScript • Angular • Node.js_
 
 ---
 
@@ -44,11 +44,10 @@ I'm **Sourav Kumar Kuila**, a passionate DevOps Engineer with hands-on experienc
 
 ## 📈 GitHub Stats
 
-<!-- Replace `SouravKuila` with your actual GitHub username if different -->
-![Sourav's GitHub stats](https://github-readme-stats.vercel.app/api?username=SouravKuila&show_icons=true&theme=dark&count_private=true)
+![Sourav's GitHub stats](https://github-readme-stats.vercel.app/api?username=souravkumarkuila&show_icons=true&theme=dark&count_private=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SouravKuila&theme=dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=souravkumarkuila&theme=dark)
 
 ---
 
-> 🧩 Your profile is now fully personalized with correct contact details. Just replace `SouravKuila` in the GitHub stats URLs if your username is different.
+> 🧩 Your profile is now fully ready — just paste into `README.md` in a repo named **souravkumarkuila** and it will show up on your GitHub profile.
